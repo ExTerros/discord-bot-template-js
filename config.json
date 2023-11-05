@@ -1,0 +1,18 @@
+{
+    "clientId": "YOUR-CLIENT-ID-BOT-PROD",
+	"token": "YOUR-TOKEN-BOT-PROD",
+    "guildId": "YOUR-DISCORD-ID-BOT-PROD",
+
+    "clientIdDev": "YOUR-CLIENT-ID-BOT-PROD",
+	"tokenDev": "YOUR-TOKEN-BOT-PROD",
+    "guildIdDev": "YOUR-DISCORD-ID-BOT-PROD",
+
+    "channelsLogs": "YOUR-LOG-CHANNEL-ID",
+
+    "DB" : {
+        "host" : "YOUR-DB-IP",
+        "password" : "YOUR-DB-PASSWORD",
+        "user" : "YOUR-DB-USERNAME",
+        "database" : "YOUR-DB-NAME"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-template-js",
+  "version": "1.0.0",
+  "description": "Bot discord template en js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExTerros/discord-bot-template-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExTerros/discord-bot-template-js/issues"
+  },
+  "homepage": "https://github.com/ExTerros/discord-bot-template-js#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
